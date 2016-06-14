@@ -5,3 +5,25 @@ body {
 	background: turquoise;
 	background-image: url("../img/polar1.jpg");
 }
+
+h1 {
+	color: yellow;
+	color: red;
+}
+
+.cat{
+	color: dark green;
+}
+
+#dog{
+	color: orange;
+}
+
+.css-statements{
+	border: 4px double green;
+}
+
+.css-uses{
+	border: 5px dotted purple;
+	background: pink;
+}
