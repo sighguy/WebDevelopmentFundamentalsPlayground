@@ -27,3 +27,28 @@ h1 {
 	border: 5px dotted purple;
 	background: pink;
 }
+
+/* Nav Bar CSS */
+.nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #f7eee6;
+}
+
+.nav li{
+	float: left;
+}
+
+.nav li a{
+	display: inline-block;
+	color: grey;
+	text-align: center;
+	padding: 14px 14px;
+	text-decoration: none;
+}
+
+.nav li a:hover{
+	background-color: #0a00a4;
+}
